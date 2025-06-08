@@ -1,2 +1,4 @@
-# Diagram Placeholder
-Initial schematic or block diagram will be added during project development.
+# Diagram Placeholder – Line Following Robot
+
+Schematic showing IR sensors, motor drivers, wheelbase layout, and PID controller logic.  
+Expected tools: Fritzing, Eagle, or physical photo.
